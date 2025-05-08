@@ -1,0 +1,17 @@
+.categories {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  button {
+    all: unset;
+    background: #eee;
+    padding: 0.4rem 0.8rem;
+    border-radius: 999px;
+    cursor: pointer;
+ }
+ button:hover {
+    background-color: rgb(197, 215, 215);
+  }
